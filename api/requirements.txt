@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+spacy
+ftfy
+unidecode
+python-dotenv
+google-genai
